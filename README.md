@@ -1,7 +1,4 @@
 # flutter_to_do_app
-
- #To-Do List App
-
  # Aplicativo de Lista de Tarefas
 
 Um aplicativo simples de lista de tarefas baseado em Flutter que usa `shared_preferences` para persistência de dados.
@@ -16,7 +13,7 @@ Um aplicativo simples de lista de tarefas baseado em Flutter que usa `shared_pre
 2. Execute `flutter pub get` para instalar as dependências.
 3. Inicie o aplicativo usando `flutter run`.
 
-#To-Do List App
+# To-Do List App
 
 A simple Flutter-based to-do list application that uses `shared_preferences` for data persistence.
 
