@@ -1,5 +1,4 @@
-# flutter_to_do_app
- # Aplicativo de Lista de Tarefas
+# Aplicativo de Lista de Tarefas
 
 Um aplicativo simples de lista de tarefas baseado em Flutter que usa `shared_preferences` para persistência de dados.
 
